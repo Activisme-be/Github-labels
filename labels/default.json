@@ -1,0 +1,8 @@
+[
+    { "name": "bug", "color": "#fc2992" },
+    { "name": "duplicate", "color": "#cccccc"},
+    { "name": "enhancement", "color": "#84b6eb" },
+    { "name": "help wanted", "color": "#159818" },
+    { "name": "invalid", "color": "#cc317c" },
+    { "name": "wontfix", "color": "#ffffff" }
+]
